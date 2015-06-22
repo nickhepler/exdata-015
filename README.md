@@ -15,10 +15,12 @@ R Source code used in lecture slides.
 * [ggplot2](https://github.com/nickhepler/exdata-015/blob/master/lectures/wk2/ggplot2.R)
 
 ### Week 3 ###
+* [Hierarchical Clustering](https://github.com/nickhepler/exdata-015/blob/master/lectures/wk3/hierarchical_clustering.R)
 
 ### Week 4 ###
 
-## Quizzes ##
+##Projects ##
+[ Course Project 2](https://github.com/nickhepler/exdata-015/tree/master/project2)
 
 ## Resources & Further Reading ##
 Selected resources mentioned in slides.
@@ -35,5 +37,11 @@ Selected resources mentioned in slides.
 * R Graphics Cookbook by Winston Chang
 
 ### Week 3 ###
+* [Google Scholar Cluster Analysis](https://scholar.google.com/scholar?hl=en&q=cluster+analysis&btnG=&as_sdt=1%2C21&as_sdtp=)
+* [Example distances - Euclidean](http://rafalab.jhsph.edu/688/lec/lecture5-clustering.pdf)
+* [Example distances - Manhattan](http://en.wikipedia.org/wiki/Taxicab_geometry)
+* [Even Prettier Dendrograms](http://gallery.r-enthusiasts.com/RGraphGallery.php?graph=79)
+* [Rafa's Distances and Clustering Video](http://www.youtube.com/watch?v=wQhVWUcXM0A)
+* [Elements of statistical learning](http://www-stat.stanford.edu/%7Etibs/ElemStatLearn/)
 
 ### Week 4 ###
